@@ -1,0 +1,25 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>note</Name>
+    <Value>79.453201294</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>velocity</Name>
+    <Value>127.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>program change</Name>
+    <Value>70.068962097</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>pitch bend</Name>
+    <Value>60.684730530</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>aftertouch</Name>
+    <Value>46.921184540</Value>
+</Widget>
